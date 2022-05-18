@@ -32,8 +32,9 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TexTYang/github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+页面站点将使用您在[储存库设置](https://github.com/TexTYang/github.io/settings/pages)主题的名称保存在Jekyll中`_config.yml`配置文件
+t
+[java](Java学习.md)
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
